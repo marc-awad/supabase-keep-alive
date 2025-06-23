@@ -27,7 +27,7 @@ This script helps you avoid that limitation **at no cost** and with **zero manua
 
 ---
 
-## 🧪 Manual Execution
+## 🧪 Manual Execution 
 
 You can manually trigger the workflow from the **Actions** tab in GitHub if needed.
 
